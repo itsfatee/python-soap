@@ -1,0 +1,3280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="exam.xsl" type="text/xsl" ?>
+<agency>
+    <domain>
+        <biotechnology>
+            
+            <project>
+                <title>Conception d’une puce à ADN pour le dépistage d’ADN viral</title>
+                <description>Depuis quelques années, on assiste à un déploiement important des biopuces dans le cadre du diagnostic. L’intérêt de la technologie biopuce pour le diagnostic est incontestablement sa facilité d’utilisation, sa rapidité, son coût et surtout le fait qu’elle permette le multiplexage.</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>30 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Abdel Aziz</first_name>
+                            <last_name>SOW</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>abdel.aziz@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Georgetown University Department of Biochemistry and Molecular and Cellular Biology</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BIOCON</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Fatima Al Zahra</first_name>
+                            <last_name>DIOP</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>fatima.zahra@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Universidad Internacional de Andalucía UNIA</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>THERANOS</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>  
+                        <curriculum>
+                            <first_name>El Mansour</first_name>
+                            <last_name>FALL</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>abdel.aziz@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>The Skolkovo Institute of Science and Technology (Skoltech)</school>
+                                <diploma>Doctorat Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SERUM INSTITUTE OF INDIA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+               
+                    <member>
+                        <curriculum>
+                            <first_name>Khalil</first_name>
+                            <last_name>KASSÉ</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>khalil.kasse@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole des Hautes Etudes de Biotechnologie et de Santé</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BAYER CROPSCIENCE</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Production industrialisée d’hormones humaines par un micro-organisme</title>
+                <description>Production industrialisée d’hormones humaines par un micro-organisme</description>
+                <start_date>02/02/2018</start_date>
+                <end_date>02/02/2019</end_date>
+                <budget>45 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Abdelmalek</first_name>
+                            <last_name>DIOP</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>abdel.diop@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Georgetown University Department of Biochemistry and Molecular and Cellular Biology</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BIOCON</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Zahid</first_name>
+                            <last_name>BABA</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>zahid.baba@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Universidad Internacional de Andalucía UNIA</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>THERANOS</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>    
+                        <curriculum>
+                            <first_name>Mouhammed Aziz</first_name>
+                            <last_name>KACIMI</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>mouha.kacimi@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>The Skolkovo Institute of Science and Technology (Skoltech)</school>
+                                <diploma>Doctorat Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SERUM INSTITUTE OF INDIA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Farrell</first_name>
+                            <last_name>KARIM</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>farrell.karim@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole des Hautes Etudes de Biotechnologie et de Santé</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BAYER CROPSCIENCE</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Biodiesel : une solution écologique polyvalente.</title>
+                <description>Le biodiesel offre plusieurs avantages pour l’environnement, mais l’utilisation d’huile végétale ou animale soulève le dilemme « nourriture contre carburant », l’utilisation des terres agricoles à des fins de biocarburants au détriment de la production alimentaire. Des usines se sont tournées vers le biodiésel microbien pour lequel des microorganismes produisent l’huile nécessaire à partir de glucose.</description>
+                <start_date>03/03/2020</start_date>
+                <end_date>03/03/2024</end_date>
+                <budget>75 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Sabrina</first_name>
+                            <last_name>SANTOS</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>sabrina.santos@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Georgetown University Department of Biochemistry and Molecular and Cellular Biology</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BIOCON</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Vénus</first_name>
+                            <last_name>BOULOS</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>venus.boulos@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Universidad Internacional de Andalucía UNIA</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>THERANOS</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>    
+                        <curriculum>
+                            <first_name>Abdoulaye</first_name>
+                            <last_name>SOW</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>abdoulaye.sow@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>The Skolkovo Institute of Science and Technology (Skoltech)</school>
+                                <diploma>Doctorat Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SERUM INSTITUTE OF INDIA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Zahra</first_name>
+                            <last_name>DIACK</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>zahra.diack@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole des Hautes Etudes de Biotechnologie et de Santé</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BAYER CROPSCIENCE</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Le clonage des végétaux, des animaux ou des humains</title>
+                <description>Le clonage est utilisé depuis de nombreuses années pour produire des végétaux. La technique, qui consiste à prélever une petite partie du végétal, de laquelle sera issu un autre végétal, est employée à une plus grande échelle commerciale depuis quelques temps pour certains fruits et légumes, notamment les bananes. La technologie a plus récemment été appliquée aux animaux.</description>
+                <start_date>04/04/2021</start_date>
+                <end_date>04/04/2038</end_date>
+                <budget>400 Milliards</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Aida</first_name>
+                            <last_name>SOW</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>aida.sow@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Georgetown University Department of Biochemistry and Molecular and Cellular Biology</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BIOCON</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Maimouna</first_name>
+                            <last_name>FALL</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>maimouna.fall@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Universidad Internacional de Andalucía UNIA</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>THERANOS</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>    
+                        <curriculum>
+                            <first_name>Nikita</first_name>
+                            <last_name>DAIRE</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>nikita.daire@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>The Skolkovo Institute of Science and Technology (Skoltech)</school>
+                                <diploma>Doctorat Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SERUM INSTITUTE OF INDIA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Carina</first_name>
+                            <last_name>SOUFAN</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>carina.soufan@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole des Hautes Etudes de Biotechnologie et de Santé</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BAYER CROPSCIENCE</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Caractérisation de mutations du gène P53 dans le développement de cancers</title>
+                <description>La mutation du gène de p53 dans la moitié des cancers humains, et l’altération de protéines régulant p53 dans l’autre moitié des cancers, témoignent du rôle essentiel de p53 dans la suppression tumorale. Ce facteur de transcription agit comme un gardien du génome : en réponse à divers stress cellulaires, comme l’activation d’oncogènes ou la présence de cassures de l’ADN, p53 est stabilisée et activée, et induit la transcription de multiples gènes.</description>
+                <start_date>05/05/2019</start_date>
+                <end_date>05/05/2025</end_date>
+                <budget>2 Milliards</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Diana</first_name>
+                            <last_name>ABDALLAH</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>diana.abdallah@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Georgetown University Department of Biochemistry and Molecular and Cellular Biology</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BIOCON</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Sara</first_name>
+                            <last_name>Abdul</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>sara.abdul@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Universidad Internacional de Andalucía UNIA</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>THERANOS</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>    
+                        <curriculum>
+                            <first_name>Umm Khayri</first_name>
+                            <last_name>SY</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ummkhayri.sy@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>The Skolkovo Institute of Science and Technology (Skoltech)</school>
+                                <diploma>Doctorat Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SERUM INSTITUTE OF INDIA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Seydou</first_name>
+                            <last_name>DIENG</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>seydou.dieng@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole des Hautes Etudes de Biotechnologie et de Santé</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BAYER CROPSCIENCE</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Améliorer la qualité de l’eau par biofiltration</title>
+                <description>Le projet  a pour objectif d'évaluer l'efficacité de la biofiltration, un principe de traitement appliqué dans cette étude aux effluents atmosphériques ayant pour origine le transport routier. Cette évaluation est basée sur desinstallations pilotes à échelle réduite pour traiter l'air extrait d'un tunnel routier en région Île-de-France. La mise enœuvre pratique des dispositifs pilotes, en plus d'estimer la capacité d'épuration, a aussi permis de tester la faisabilité àplus grande échelle en identifiant les contraintes réelles d'exploitation. Le travail d'évaluation a été complété par uneanalyse de cycle de vie afin d'appréhender l'ensemble des problématiques environnementales.</description>
+                <start_date>06/06/2021</start_date>
+                <end_date>06/06/2027</end_date>
+                <budget>80 Milliards</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Ali</first_name>
+                            <last_name>BASMA</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>ali.basma@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Georgetown University Department of Biochemistry and Molecular and Cellular Biology</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BIOCON</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Mehdi</first_name>
+                            <last_name>HOBALLAH</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>mehdi.hoballah@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Universidad Internacional de Andalucía UNIA</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>THERANOS</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>    
+                        <curriculum>
+                            <first_name>Hussein</first_name>
+                            <last_name>SAAD</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>hussein.saad@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>The Skolkovo Institute of Science and Technology (Skoltech)</school>
+                                <diploma>Doctorat Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SERUM INSTITUTE OF INDIA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Hamza</first_name>
+                            <last_name>DIOURY</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>hamza.dioury@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole des Hautes Etudes de Biotechnologie et de Santé</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BAYER CROPSCIENCE</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+       
+            <project>
+                <title>Élimination de phosphates polluants par des micro-organismes</title>
+                <description>Élimination de phosphates polluants par des micro-organismes</description>
+                <start_date>07/07/2023</start_date>
+                <end_date>07/07/2028</end_date>
+                <budget>80 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Ousmane</first_name>
+                            <last_name>BA</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>ousmane.ba@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Georgetown University Department of Biochemistry and Molecular and Cellular Biology</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BIOCON</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Faty</first_name>
+                            <last_name>BLONDIN DIOP</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>faty.blondin@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Universidad Internacional de Andalucía UNIA</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>THERANOS</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>    
+                        <curriculum>
+                            <first_name>Vanessa</first_name>
+                            <last_name>BOLTON</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>vanessa.bolton@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>The Skolkovo Institute of Science and Technology (Skoltech)</school>
+                                <diploma>Doctorat Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SERUM INSTITUTE OF INDIA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Abibatou</first_name>
+                            <last_name>SAKHO</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>abibatou.sakho@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole des Hautes Etudes de Biotechnologie et de Santé</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BAYER CROPSCIENCE</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+       
+        </biotechnology>
+        
+        <information_technology>
+                
+            <project>
+                <title>SAIP : Système d’alerte et d’information des populations</title>
+                <description>SAIP vise à exploiter de façon harmonisée, grâce à un logiciel centralisé en cours de finalisation, toute une série de dispositifs d’alerte (sirènes, téléphones mobile, radio, panneaux de signalisation à message variable) pour avertir les populations en cas de risque naturel, technologique, terroriste… </description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>81,6 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Marie</first_name>
+                            <last_name>DIATTA</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>marie.diatta@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Massachussets Institute of Technology (MIT)</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GOOGLE</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Fara</first_name>
+                            <last_name>DIOP</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>fara.diop@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>INSA LYON</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>FUJITSU</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>  
+                        <curriculum>
+                            <first_name>Christopher</first_name>
+                            <last_name>JOHNSON</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>chris.johnson@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Harvard University</school>
+                                <diploma>Doctorat Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>IBM</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+               
+                    <member>
+                        <curriculum>
+                            <first_name>Jade</first_name>
+                            <last_name>CARTER</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>jade.carter@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CISCO SYSTEMS</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Cassiopée</title>
+                <description>Application couvrant l’ensemble de la chaîne pénale des tribunaux de grande instance</description>
+                <start_date>02/02/2014</start_date>
+                <end_date>02/02/2021</end_date>
+                <budget>9,9 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Louise</first_name>
+                            <last_name>FRANCK</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>louise.franck@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Massachussets Institute of Technology (MIT)</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GOOGLE</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Dylan</first_name>
+                            <last_name>VICAT</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>dylan.vicat@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>INSA LYON</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>FUJITSU</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>  
+                        <curriculum>
+                            <first_name>Adam</first_name>
+                            <last_name>Hussle</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>adam.hussle@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Harvard University</school>
+                                <diploma>Doctorat Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>IBM</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Kimberly</first_name>
+                            <last_name>McCarter</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>kim.mccarter@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CISCO SYSTEMS</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>SI-Samu</title>
+                <description>Le programme, qui vise dans sa première phase à tester une solution, ambitionne de moderniser les systèmes d’information et de télécommunications des Samu-Centres 15, en l’amenant vers les technologies IP.</description>
+                <start_date>03/03/2020</start_date>
+                <end_date>03/03/2024</end_date>
+                <budget>59 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Lara</first_name>
+                            <last_name>KARIM</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>lara.karim@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Massachussets Institute of Technology (MIT)</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GOOGLE</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>François</first_name>
+                            <last_name>DUPONT</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>francois.dupont@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>INSA LYON</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>FUJITSU</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>  
+                        <curriculum>
+                            <first_name>Karl</first_name>
+                            <last_name>BECKAM</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>karl.beckam@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Harvard University</school>
+                                <diploma>Doctorat Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>IBM</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Veronica</first_name>
+                            <last_name>McArthur</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>veronica.mcarthur@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CISCO SYSTEMS</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>PNIJ</title>
+                <description>Plateforme nationale d’interceptions judiciaires a régulièrement les honneurs de la presse en raison de ses dysfonctionnements et plantages à répétition</description>
+                <start_date>04/04/2005</start_date>
+                <end_date>04/04/2023</end_date>
+                <budget>121,2 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Aicha</first_name>
+                            <last_name>KA</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>aicha.ka@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Massachussets Institute of Technology (MIT)</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GOOGLE</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Bryan</first_name>
+                            <last_name>KERMEL</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>bryan.kermel@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>INSA LYON</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>FUJITSU</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>  
+                        <curriculum>
+                            <first_name>Tyga</first_name>
+                            <last_name>McDonald</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>tyga.mcdonald@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Harvard University</school>
+                                <diploma>Doctorat Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>IBM</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Emma</first_name>
+                            <last_name>TRUDEAU</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>emma.trudeau@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CISCO SYSTEMS</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Chorus Pro 2017</title>
+                <description>Ce portail, qui vient d’être ouvert par l’AIFE (Agence pour l’informatique financière de l’Etat), porte les espoirs du gouvernement en matière de dématérialisation des factures</description>
+                <start_date>05/05/2017</start_date>
+                <end_date>05/05/2022</end_date>
+                <budget>3,3 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Claire</first_name>
+                            <last_name>FARHA</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>claire.farha@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Massachussets Institute of Technology (MIT)</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GOOGLE</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Giveon</first_name>
+                            <last_name>JEEP</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>giveon.jeep@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>INSA LYON</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>FUJITSU</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>  
+                        <curriculum>
+                            <first_name>Karl</first_name>
+                            <last_name>ROYS</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>karl.roys@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Harvard University</school>
+                                <diploma>Doctorat Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>IBM</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Fatou</first_name>
+                            <last_name>DAFFE</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>fatou.daffe@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CISCO SYSTEMS</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Your MD</title>
+                <description>Cette autre innovation dans le domaine de la santé simule un médecin ! En effet, le projet Your MD créé par un algorithme est capable de « diriger un entretien médical » à travers des questions ciblées pour cerner la pathologie du e-patient</description>
+                <start_date>06/06/2021</start_date>
+                <end_date>06/06/2027</end_date>
+                <budget>2 Milliards</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Carla</first_name>
+                            <last_name>NICOLAS</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>carla.nicolas@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Massachussets Institute of Technology (MIT)</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GOOGLE</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Nestor</first_name>
+                            <last_name>KAMA</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>nestor.kama@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>INSA LYON</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>FUJITSU</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>  
+                        <curriculum>
+                            <first_name>Alioune</first_name>
+                            <last_name>DIOP</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>alioune.diop@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Harvard University</school>
+                                <diploma>Doctorat Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>IBM</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Jessica</first_name>
+                            <last_name>PARKER</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>jess.parker@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CISCO SYSTEMS</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+       
+            <project>
+                <title>EXOSQUELETTE DEXMO</title>
+                <description>C’est un gant qui permet de ressentir le contact physique en maniant un objet virtuel. Outre la sensation du toucher, l’utilisateur perçoit de façon très distinctive les dimensions de l’objet et son état (flexible, rigide, etc.).</description>
+                <start_date>07/07/2023</start_date>
+                <end_date>07/07/2028</end_date>
+                <budget>80 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Mariam</first_name>
+                            <last_name>JALLOH</last_name>
+                            <birth_date>19/05/1989</birth_date>
+                            <email>mariam.diallo@gmail.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Massachussets Institute of Technology (MIT)</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GOOGLE</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Basket-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Alpha</first_name>
+                            <last_name>NDOYE</last_name>
+                            <birth_date>10/12/1996</birth_date>
+                            <email>alpha.ndoye@gmail.com</email>
+                            <phone>772541638</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>INSA LYON</school>
+                                <diploma>Master Biotechnologie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>FUJITSU</entreprise>
+                                <start_end_date>17/02/2016 - 17/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Karaté-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>  
+                        <curriculum>
+                            <first_name>Lary</first_name>
+                            <last_name>Clarks</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>lary.clarks@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Harvard University</school>
+                                <diploma>Doctorat Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>IBM</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Kennedy</first_name>
+                            <last_name>Simmon</last_name>
+                            <birth_date>23/07/1990</birth_date>
+                            <email>kennedy.simmon@yahoo.com</email>
+                            <phone>775681234</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Master Informatique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CISCO SYSTEMS</entreprise>
+                                <start_end_date>11/06/2017 - 10/08/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Basket-Photographie</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+        </information_technology>
+        
+        <chemistry>
+            
+            <project>
+                <title>Modèles d'impacts en Analyse du Cycle de vie pour l'évaluation des alternatives d'utilisation du carbone capturé</title>
+                <description>Ce projet vise à adapter et développer davantage les méthodes d'impacts d'analyse du cycle de vie dans le cadre de leur application pour l'évaluation d'alternatives pour l'utilisation du carbon capturé. Le projet se penchera donc sur une ou plusieurs catégories d'impacts en ACV et sur leur développement dans une perspective d'ACV prospective / orientée vers le futur. </description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>30 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Zyad</first_name>
+                            <last_name>CHEDID</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>zyad.chedid@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Polytechnique de Montréal</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ALSACHIMIE</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Habib</first_name>
+                            <last_name>ZITOUNI</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>habib.zitouni@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ARKEMA</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Khaled</first_name>
+                            <last_name>MASSOUD</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>khaled.massoud@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>UCAD Faculté de Sciences</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOSTIK</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Faris</first_name>
+                            <last_name>MALIK</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>faris.malik@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Université de Paris</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ANTAR</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Modélisation des impacts environementaux des microplastiques en analyse du Cycle de Vie</title>
+                <description>Environ 6,4 millions de tonnes de débris plastiques se retrouvent dans le milieu marin chaque année. Compte tenu de l'ampleur des débris plastiques, il est important et nécessaire de pouvoir les considérer dans l'ACV.L'analyse du cycle de vie (ACV) est un outil utile pour la prise de décision, permettant des comparaisons de l'impact environnemental de différents produits ou services. </description>
+                <start_date>02/03/2019</start_date>
+                <end_date>02/03/2020</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Farell</first_name>
+                            <last_name>LATEEF</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>farell.lateef@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Polytechnique de Montréal</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ALSACHIMIE</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Tarik</first_name>
+                            <last_name>ZAHAb</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>tarik.zahab@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ARKEMA</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Khaled</first_name>
+                            <last_name>MARGOUM</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>khaled.margoum@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>UCAD Faculté de Sciences</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOSTIK</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>SALAMA</first_name>
+                            <last_name>Tariq</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>salama.tariq@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Université de Paris</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ANTAR</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+        
+            <project>
+                <title>Modélisation des propriétés thermodynamiques et physiques de Solvants à Eutectique Profond</title>
+                <description>Puisque les Solvants à Eutectique Profond sont souvent visqueux, il serait très utile de modéliser le diagramme de phases et les propriétés physiques de systèmes ternaires, permettant ainsi de sélectionner des compositions ternaires correspondant à une gamme de la température du liquidus, de la densité et de la viscosité tout en évitant une approche expérimentale d’essais et erreurs extrêmement fastidieuse et coûteuse.</description>
+                <start_date>03/04/2019</start_date>
+                <end_date>03/04/2020</end_date>
+                <budget>25 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Abdelrahman</first_name>
+                            <last_name>SADEK</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>abd.sadek@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Polytechnique de Montréal</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ALSACHIMIE</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Wakil</first_name>
+                            <last_name>NDIAYE</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>wakil.ndiaye@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ARKEMA</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Abdoul Aziz</first_name>
+                            <last_name>KARIMI</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>abd.karimi@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>UCAD Faculté de Sciences</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOSTIK</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Djamil</first_name>
+                            <last_name>Tariq</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>djamil.tariq@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Université de Paris</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ANTAR</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Développement de nouvelles formulations innovantes d’emballages</title>
+                <description>Le développement de nouvelles formulation innovantes d’emballages polymères flexibles est un domaine de recherche d’actualité en raison des besoins spécifiques en solutions emballages actifs et durables.</description>
+                <start_date>04/05/2019</start_date>
+                <end_date>04/05/2020</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Abdel Jalil</first_name>
+                            <last_name>LATEEF</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>adbjalil.lateef@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Polytechnique de Montréal</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ALSACHIMIE</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Djoulian</first_name>
+                            <last_name>NEHME</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>djoulian.nehme@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ARKEMA</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Rafik</first_name>
+                            <last_name>KHIDER</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>rafik.khider@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>UCAD Faculté de Sciences</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOSTIK</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Madani</first_name>
+                            <last_name>KAMAL</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>madani.kamal@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Université de Paris</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ANTAR</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Modélisation des propriétés thermodynamiques et physiques de Solvants à Eutectique Profond</title>
+                <description>Puisque les Solvants à Eutectique Profond sont souvent visqueux, il serait très utile de modéliser le diagramme de phases et les propriétés physiques de systèmes ternaires, permettant ainsi de sélectionner des compositions ternaires correspondant à une gamme de la température du liquidus, de la densité et de la viscosité tout en évitant une approche expérimentale d’essais et erreurs extrêmement fastidieuse et coûteuse.</description>
+                <start_date>05/06/2019</start_date>
+                <end_date>05/06/2020</end_date>
+                <budget>10 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Ramzi</first_name>
+                            <last_name>YOUSFI</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ramzi.yousfi@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Polytechnique de Montréal</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ALSACHIMIE</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Charif</first_name>
+                            <last_name>MALEK</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>charif.malek@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ARKEMA</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Hachim</first_name>
+                            <last_name>KHADRA</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>hachim.khadra@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>UCAD Faculté de Sciences</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOSTIK</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Nawal</first_name>
+                            <last_name>BOUDIB</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>nawal.boudib@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Université de Paris</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ANTAR</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Intensification des procédés</title>
+                <description>Développer les usines chimiques du futur permettant de produire plus dans des unités plus compactes, donc plus discrètes et moins consommatrices d'énergie, avec un impact sur l'environnement réduit.</description>
+                <start_date>06/07/2019</start_date>
+                <end_date>06/07/2020</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Marie-Sara</first_name>
+                            <last_name>NICOLAS</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>marie.nicolas@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Polytechnique de Montréal</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ALSACHIMIE</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Photographie-Karaté</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ndeye Ngone</first_name>
+                            <last_name>BOP</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ndngone.bop@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ARKEMA</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Danse-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Mansour</first_name>
+                            <last_name>KONE</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>mansour.kone@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>UCAD Faculté de Sciences</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOSTIK</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Sophie</first_name>
+                            <last_name>NASSAR</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>sophie.nassar@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Université de Paris</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ANTAR</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Bio-ressources</title>
+                <description>Réalisation de produits chimiques à partir de matières premières d'origine végétale</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Babacar</first_name>
+                            <last_name>NGOM</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>babacar.ngom@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Polytechnique de Montréal</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ALSACHIMIE</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Pêche</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Rihab</first_name>
+                            <last_name>MEROUEH</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>rihab.meroueh@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Université de Montréal</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ARKEMA</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Jean-Paul</first_name>
+                            <last_name>SAGNA</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>jp.sagna@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>UCAD Faculté des Sciences</school>
+                                <diploma>Master Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOSTIK</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Astel</first_name>
+                            <last_name>NDIAYE</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>astel.ndiaye@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Université de Paris</school>
+                                <diploma>Doctorat Chimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>ANTAR</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+        </chemistry>
+         
+        <petrochemistry>
+            
+            <project>
+                <title>ROG : Refinery Off-gas Project</title>
+                <description>Construction d’une unité permettant de récupérer les gaz coproduits par la raffinerie (« gaz fatals ») et de les transformer en matière première pour la pétrochimie, en remplacement du naphta, plus coûteux.</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Christophe</first_name>
+                            <last_name>Gauthier</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>christophe.gauthier@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Cambridge</school>
+                                <diploma>Master Génie Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SELENIS CANADA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Volleyball-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ethan</first_name>
+                            <last_name>MEROUEH</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ethan.meroueh@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Stanford University</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>QATAR PETROLEUM</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yves</first_name>
+                            <last_name>Saint-Laurent</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>yves.laurent@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Imperial College London</school>
+                                <diploma>Master Génie Pétrolier</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SAUDI ARAMCO</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Elizabeth</first_name>
+                            <last_name>DIALLO</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>eliza.diallo@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Colorado School of Mines</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>PETRONAS</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Projet Éthane</title>
+                <description>Modification d’un des deux vapocraqueurs de la plateforme et adaptation de la logistique du site afin qu’il puisse importer de Norvège, par bateau, 200 000 tonnes d’éthane par an. Avec ce projet, le vapocraqueur bénéficie d’une meilleure flexibilité d’approvisionnement entre éthane, butane et naphta</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Christophe</first_name>
+                            <last_name>Gauthier</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>christophe.gauthier@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Cambridge</school>
+                                <diploma>Master Génie Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SELENIS CANADA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Volleyball-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ethan</first_name>
+                            <last_name>MEROUEH</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ethan.meroueh@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Stanford University</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>QATAR PETROLEUM</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yves</first_name>
+                            <last_name>Saint-Laurent</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>yves.laurent@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Imperial College London</school>
+                                <diploma>Master Génie Pétrolier</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SAUDI ARAMCO</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Elizabeth</first_name>
+                            <last_name>DIALLO</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>eliza.diallo@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Colorado School of Mines</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>PETRONAS</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+        
+            <project>
+                <title>Prieska</title>
+                <description>Construction et l’exploitation à Prieska d’une des plus grandes centrales solaires photovoltaïques au sol d’Afrique.</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>500 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Christophe</first_name>
+                            <last_name>Gauthier</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>christophe.gauthier@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Cambridge</school>
+                                <diploma>Master Génie Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SELENIS CANADA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Volleyball-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ethan</first_name>
+                            <last_name>MEROUEH</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ethan.meroueh@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Stanford University</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>QATAR PETROLEUM</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yves</first_name>
+                            <last_name>Saint-Laurent</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>yves.laurent@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Imperial College London</school>
+                                <diploma>Master Génie Pétrolier</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SAUDI ARAMCO</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Elizabeth</first_name>
+                            <last_name>DIALLO</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>eliza.diallo@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Colorado School of Mines</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>PETRONAS</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Yamal LNG</title>
+                <description>Ce projet vise à exploiter plus de 4 milliards de barils équivalent pétrole de réserves gazières. Pour ce faire, ce sont plus de 200 puits qui ont été forés et trois trains de liquéfaction d’une capacité de 5,5 millions de tonnes chacun qui ont été construits. Près de 16,5 millions de tonnes de GNL transiteront, chaque année, par le port de Sabetta. Toute la production de GNL est vendue à des clients européens et asiatiques, via des contrats de 15 à 20 ans.</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>4,4 Milliards</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Christophe</first_name>
+                            <last_name>Gauthier</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>christophe.gauthier@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Cambridge</school>
+                                <diploma>Master Génie Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SELENIS CANADA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Volleyball-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ethan</first_name>
+                            <last_name>MEROUEH</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ethan.meroueh@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Stanford University</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>QATAR PETROLEUM</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yves</first_name>
+                            <last_name>Saint-Laurent</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>yves.laurent@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Imperial College London</school>
+                                <diploma>Master Génie Pétrolier</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SAUDI ARAMCO</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Elizabeth</first_name>
+                            <last_name>DIALLO</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>eliza.diallo@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Colorado School of Mines</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>PETRONAS</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Culzean</title>
+                <description>Culzean est un champ de gaz à condensats situé en mer du Nord, à 230 km au large d’Aberdeen, dans une zone longtemps restée inexplorée. Composé de deux réservoirs profonds, ses réserves sont estimées entre 250 et 300 millions de barils équivalent pétrole, ce qui en fait le plus grand projet gazier développé au Royaume-Uni ces 25 dernières années. </description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>50 Milliards</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Christophe</first_name>
+                            <last_name>Gauthier</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>christophe.gauthier@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Cambridge</school>
+                                <diploma>Master Génie Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SELENIS CANADA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Volleyball-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ethan</first_name>
+                            <last_name>MEROUEH</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ethan.meroueh@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Stanford University</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>QATAR PETROLEUM</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yves</first_name>
+                            <last_name>Saint-Laurent</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>yves.laurent@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Imperial College London</school>
+                                <diploma>Master Génie Pétrolier</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SAUDI ARAMCO</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Elizabeth</first_name>
+                            <last_name>DIALLO</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>eliza.diallo@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Colorado School of Mines</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>PETRONAS</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Daesan</title>
+                <description>Le site de Daesan fabrique des produits pétroliers (kérosène, gasoil, essence) ainsi que du polypropylène, du polyéthylène, du styrène, du paraxylène et de l’EVA (Ethylene-vinyl acetate copolymer). Autant de molécules qui entrent dans la composition de nombreux produits du quotidien.</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Christophe</first_name>
+                            <last_name>Gauthier</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>christophe.gauthier@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Cambridge</school>
+                                <diploma>Master Génie Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SELENIS CANADA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Volleyball-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ethan</first_name>
+                            <last_name>MEROUEH</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ethan.meroueh@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Stanford University</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>QATAR PETROLEUM</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yves</first_name>
+                            <last_name>Saint-Laurent</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>yves.laurent@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Imperial College London</school>
+                                <diploma>Master Génie Pétrolier</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SAUDI ARAMCO</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Elizabeth</first_name>
+                            <last_name>DIALLO</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>eliza.diallo@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Colorado School of Mines</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>PETRONAS</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>Shams</title>
+                <description>Modification d’un des deux vapocraqueurs de la plateforme et adaptation de la logistique du site afin qu’il puisse importer de Norvège, par bateau, 200 000 tonnes d’éthane par an. Avec ce projet, le vapocraqueur bénéficie d’une meilleure flexibilité d’approvisionnement entre éthane, butane et naphta</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Christophe</first_name>
+                            <last_name>Gauthier</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>christophe.gauthier@gmail.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Cambridge</school>
+                                <diploma>Master Génie Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SELENIS CANADA</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Volleyball-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ethan</first_name>
+                            <last_name>MEROUEH</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>ethan.meroueh@yahoo.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Stanford University</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>QATAR PETROLEUM</entreprise>
+                                <start_end_date>15/04/2014 - 12/06/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yves</first_name>
+                            <last_name>Saint-Laurent</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>yves.laurent@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Imperial College London</school>
+                                <diploma>Master Génie Pétrolier</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>SAUDI ARAMCO</entreprise>
+                                <start_end_date>12/04/2013 - 12/06/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Elizabeth</first_name>
+                            <last_name>DIALLO</last_name>
+                            <birth_date>25/01/1988</birth_date>
+                            <email>eliza.diallo@icloud.com</email>
+                            <phone>773032215</phone>
+                            <matrimonial_situation>Mariée</matrimonial_situation>
+                            <formation>
+                                <school>Colorado School of Mines</school>
+                                <diploma>Doctorat Pétrochimie</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>PETRONAS</entreprise>
+                                <start_end_date>17/04/2013 - 17/06/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Photographie-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+        </petrochemistry>
+        
+        <aeronotics>
+            
+            <project>
+                <title>ADSAM : Assemblage et Durabilité des Structures Aéronautiques Métalliques</title>
+                <description>Utilisation de structures métalliques pour les avions futurs, et en particulier les voilures, que dans le cadre d'une rupture technologique majeure, cette rupture technologique, seule capable de concurrencer le développement des matériaux composites, pourrait être atteinte grâce à l'apparition sur le marché de nouveaux alliages (Alu. Lithium) et simultanément l'arrivée à maturité de nouveaux procédés d'assemblage : le soudage laser et le FSW (Friction Stir Welding) ou soudage par friction malaxage.</description>
+                <start_date>07/01/2021</start_date>
+                <end_date>07/01/2029</end_date>
+                <budget>215 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Falilou</first_name>
+                            <last_name>BA</last_name>
+                            <birth_date>25/05/1989</birth_date>
+                            <email>falilou.ba@gmail.com</email>
+                            <phone>771941410</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronautique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>NASA</entreprise>
+                                <start_end_date>10/01/2015 - 10/01/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe-Japonais</languages>
+                            <hobbies>Basket-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Cheikh Tidiane</first_name>
+                            <last_name>SY</last_name>
+                            <birth_date>22/06/1988</birth_date>
+                            <email>chtidiane.sy@gmail.com</email>
+                            <phone>775221403</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Institut supérieur de l’aéronautique et de l’espace</school>
+                                <diploma>Diplôme d'ingénieur en aéronautique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>OSAC</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                   
+                    <member>
+                        <curriculum>
+                            <first_name>Pascal</first_name>
+                            <last_name>Herault</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>pascal.herault@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>AIRBUS</entreprise>
+                                <start_end_date>10/01/2013 - 10/01/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                  
+                    <member>
+                        <curriculum>
+                            <first_name>Patricia</first_name>
+                            <last_name>LOPEZ</last_name>
+                            <birth_date>25/05/1994</birth_date>
+                            <email>patricia.lopez@yahoo.com</email>
+                            <phone>00335691235</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronautique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CORSAIR</entreprise>
+                                <start_end_date>15/01/2016 - 15/01/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Lecture-Taekwendo</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>AEROCONF : Réduction niveaux vibration et acoustique dans l'aéronautique et le spatial</title>
+                <description>Le projet AEROCONF répond au besoin de traitements passifs innovants, pour réduire le bruit de couche limite.</description>
+                <start_date>01/01/2019</start_date>
+                <end_date>01/01/2020</end_date>
+                <budget>230 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Ismael</first_name>
+                            <last_name>Ahmed</last_name>
+                            <birth_date>25/05/1993</birth_date>
+                            <email>ismael.ahmed@gmail.com</email>
+                            <phone>784231568</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>AIRBUS</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe-Japonais</languages>
+                            <hobbies>Basket-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ibrahim</first_name>
+                            <last_name>Aref</last_name>
+                            <birth_date>22/06/1989</birth_date>
+                            <email>ibrahim.aref@gmail.com</email>
+                            <phone>775221403</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Institut supérieur de l’aéronautique et de l’espace</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CORSAIR</entreprise>
+                                <start_end_date>15/02/2014 - 11/02/2017</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Zakaria</first_name>
+                            <last_name>Aziza</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>zakaria.aziza@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>LATESYS</entreprise>
+                                <start_end_date>10/08/2014 - 10/08/2016</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Allemand</languages>
+                            <hobbies>Football-Lecture</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Kayden</first_name>
+                            <last_name>Ben Ali</last_name>
+                            <birth_date>12/05/1990</birth_date>
+                            <email>kayden.bali@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CAVOK</entreprise>
+                                <start_end_date>19/03/2015 - 19/03/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Flammand</languages>
+                            <hobbies>Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+          
+            <project>
+                <title>AGESYS : Atelier de Génie Système</title>
+                <description>Ensemble ouvert d’outils intégré dans un atelier permettant une conception « orientée modèles » de systèmes et logiciels embarqués</description>
+                <start_date>14/01/2021</start_date>
+                <end_date>14/01/2023</end_date>
+                <budget>30 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Kassim</first_name>
+                            <last_name>BADDOU</last_name>
+                            <birth_date>25/09/1989</birth_date>
+                            <email>kassim.baddou@gmail.com</email>
+                            <phone>00256984133</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>AIR FRANCE</entreprise>
+                                <start_end_date>15/07/2016 - 15/07/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Basket-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Kenzo</first_name>
+                            <last_name>BATAL</last_name>
+                            <birth_date>22/06/1988</birth_date>
+                            <email>kenzo.batal@gmail.com</email>
+                            <phone>775221403</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Institut supérieur de l’aéronautique et de l’espace</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOEING</entreprise>
+                                <start_end_date>20/04/2015 - 20/04/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Kamil</first_name>
+                            <last_name>BACHA</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>kamil.bacha@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CAVOK</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Djibril</first_name>
+                            <last_name>BELATTAR</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>djibril.belattar@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GROUPE SATIF</entreprise>
+                                <start_end_date>17/09/2016 - 17/09/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>AIR-COBOT : Aircraft enhanced Inspection by smaRt and Collaborative ROBOT</title>
+                <description>L'objectif du projet Air-Cobot est de développer un démonstrateur innovant composé d'un ensemble de capteurs de contrôle non destructif (CND) montés sur un robot collaboratif (cobot), autonome dans ses déplacements, capable de réaliser l'inspection visuelle d'un avion lors de petite ou grande maintenance en hangar et lors de retour avion à des sociétés de leasing, ainqi qu'en phase de pré-vol, ou encore en ligne finale d'assemblage d'avionneur</description>
+                <start_date>06/06/2020</start_date>
+                <end_date>06/06/2026</end_date>
+                <budget>125 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Anas</first_name>
+                            <last_name>BASMA</last_name>
+                            <birth_date>25/09/1989</birth_date>
+                            <email>anas.basma@gmail.com</email>
+                            <phone>00256984133</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>AIR FRANCE</entreprise>
+                                <start_end_date>15/07/2016 - 15/07/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Basket-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Moussa</first_name>
+                            <last_name>BAKRI</last_name>
+                            <birth_date>22/06/1988</birth_date>
+                            <email>moussa.bakri@gmail.com</email>
+                            <phone>775221403</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Institut supérieur de l’aéronautique et de l’espace</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOEING</entreprise>
+                                <start_end_date>20/04/2015 - 20/04/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Souleymane</first_name>
+                            <last_name>BICHRI</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>souley.bichri@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CAVOK</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Malik</first_name>
+                            <last_name>BELAID</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>malik.belaid@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GROUPE SATIF</entreprise>
+                                <start_end_date>17/09/2016 - 17/09/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>AIRTIUS : Développement d'interfaces mixtes (tactiles et physique) pour cockpit en contexte critique</title>
+                <description>L'objectif du projet AIRTIUS est de traiter les problèmes potentiels de sécurité et de performance posés par la dématérialisation des interfaces pilotes-système du cockpit, pour lequel une surface tactile unique est envisagée à moyen terme</description>
+                <start_date>03/05/2021</start_date>
+                <end_date>03/05/2024</end_date>
+                <budget>90 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Marwan</first_name>
+                            <last_name>BOUAZZA</last_name>
+                            <birth_date>25/09/1989</birth_date>
+                            <email>marwan.bouazza@gmail.com</email>
+                            <phone>00256984133</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>AIR FRANCE</entreprise>
+                                <start_end_date>15/07/2016 - 15/07/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Basket-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yusuf</first_name>
+                            <last_name>EZZAT</last_name>
+                            <birth_date>22/06/1988</birth_date>
+                            <email>yusuf.ezzat@gmail.com</email>
+                            <phone>775221403</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Institut supérieur de l’aéronautique et de l’espace</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOEING</entreprise>
+                                <start_end_date>20/04/2015 - 20/04/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Adel</first_name>
+                            <last_name>CHAKIR</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>adel.chakir@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CAVOK</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Yahya</first_name>
+                            <last_name>DAHMANI</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>yahya.dahmani@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GROUPE SATIF</entreprise>
+                                <start_end_date>17/09/2016 - 17/09/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+          
+            <project>
+                <title>TITANIUM : Management du cycle de vie complet de la fabrication métallique de titane</title>
+                <description>Le projet 3D Titanium vise à réaliser un démonstrateur de recyclage de copeaux en poudres de titane</description>
+                <start_date>14/09/2021</start_date>
+                <end_date>14/10/2023</end_date>
+                <budget>30 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Jibril</first_name>
+                            <last_name>FIDA</last_name>
+                            <birth_date>25/09/1989</birth_date>
+                            <email>jibril.fida@gmail.com</email>
+                            <phone>00256984133</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>AIR FRANCE</entreprise>
+                                <start_end_date>15/07/2016 - 15/07/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe</languages>
+                            <hobbies>Basket-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ibrahima</first_name>
+                            <last_name>GIBRAN</last_name>
+                            <birth_date>22/06/1988</birth_date>
+                            <email>ibrahima.gibran@gmail.com</email>
+                            <phone>775221403</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Institut supérieur de l’aéronautique et de l’espace</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>BOEING</entreprise>
+                                <start_end_date>20/04/2015 - 20/04/2019</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ishak</first_name>
+                            <last_name>HADAD</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>ishak.hadad@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CAVOK</entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Karim</first_name>
+                            <last_name>HALIMI</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>karim.halimi@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>GROUPE SATIF</entreprise>
+                                <start_end_date>17/09/2016 - 17/09/2020</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+            <project>
+                <title>ACAPULCO : AppliCAtion composite thermoPlastique pour pièces à doUbLe COurbure</title>
+                <description>Utilisation de composites thermoplastiques sur des applications aéronautiques sur des pièces de révolution type système d'air dans des environnements sévères.</description>
+                <start_date>09/01/2018</start_date>
+                <end_date>10/01/2024</end_date>
+                <budget>50 Millions</budget>
+                <team>
+                    <member>
+                        <curriculum>
+                            <first_name>Mahdi</first_name>
+                            <last_name>HANOUNA</last_name>
+                            <birth_date>25/05/1989</birth_date>
+                            <email>mahdi.hanouna@gmail.com</email>
+                            <phone>771941410</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise></entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Arabe-Japonais</languages>
+                            <hobbies>Basket-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Kahil</first_name>
+                            <last_name>HAYEK</last_name>
+                            <birth_date>22/06/1988</birth_date>
+                            <email>kahil.hayek@gmail.com</email>
+                            <phone>775221403</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Institut supérieur de l’aéronautique et de l’espace</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise></entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Ryad</first_name>
+                            <last_name>KAMAL</last_name>
+                            <birth_date>15/06/1988</birth_date>
+                            <email>ryad.kamal@gmail.com</email>
+                            <phone>003385624136</phone>
+                            <matrimonial_situation>Marié</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale supérieure de mécanique et d’aérotechnique</school>
+                                <diploma>Diplôme d'ingénieur en aéronotique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise></entreprise>
+                                <start_end_date>10/01/2014 - 10/01/2015</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais</languages>
+                            <hobbies>Football-Lecture-Natation</hobbies>
+                        </curriculum>
+                    </member>
+                    
+                    <member>
+                        <curriculum>
+                            <first_name>Mustafa</first_name>
+                            <last_name>MABROUK</last_name>
+                            <birth_date>25/05/1994</birth_date>
+                            <email>mustafa.mabrouk@yahoo.com</email>
+                            <phone>00335691235</phone>
+                            <matrimonial_situation>Célibataire</matrimonial_situation>
+                            <formation>
+                                <school>Ecole nationale de l’aviation civile</school>
+                                <diploma>Diplôme d'ingénieur en aéronautique</diploma>
+                            </formation>
+                            <experience>
+                                <entreprise>CORSAIR</entreprise>
+                                <start_end_date>15/01/2016 - 15/01/2018</start_end_date>
+                            </experience>
+                            <languages>Francais-Anglais-Espagnol</languages>
+                            <hobbies>Lecture-Taekwendo</hobbies>
+                        </curriculum>
+                    </member>
+                </team>
+            </project>
+            
+        </aeronotics>
+    </domain>
+</agency>
